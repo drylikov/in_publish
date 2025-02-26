@@ -1,0 +1,23 @@
+{
+{
+  "name": "in_publish",
+  "version": "2.0.1",
+  "description": "Detect if we were run as a result of `npm publish`",
+  "main": "index.js",
+  "bin": {
+    "in_publish": "in_publish.js",
+    "in-install": "in-install.js",
+    "not-in_publish": "not-in_publish.js",
+    "not-in-install": "not-in-install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drylikov/in_publish"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/drylikov/in_publish/issues"
+  },
+  "homepage": "https://github.com/drylikov/in_publish"
+}
